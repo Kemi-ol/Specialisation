@@ -1,2 +1,2 @@
 # Specialisation
-Specialisation assessment. 
+Created for the specialisation exams
